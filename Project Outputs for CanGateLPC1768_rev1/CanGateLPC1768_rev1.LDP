@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\Work\Projects\Other\Can Gate\CanGateLPC1768_rev1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=cangatelpc1768_rev1-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=cangatelpc1768_rev1-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=cangatelpc1768_rev1-roundholes-nonplated.txt|DrillLayers=gtl,gbl

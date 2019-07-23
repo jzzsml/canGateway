@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CanGateLPC1768_rev1.PrjPcb]
+   Generated File[CanGateLPC1768_rev1-RoundHoles-Plated.TXT]
+   Generated File[CanGateLPC1768_rev1-RoundHoles-NonPlated.TXT]
+   Generated File[CanGateLPC1768_rev1-SlotHoles-Plated.TXT]
+   Generated File[CanGateLPC1768_rev1.LDP]
+   Generated File[CanGateLPC1768_rev1.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 16:16:05 On 23.07.2019

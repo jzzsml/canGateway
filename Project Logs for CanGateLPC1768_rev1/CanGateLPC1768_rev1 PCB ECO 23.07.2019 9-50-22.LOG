@@ -1,0 +1,550 @@
+Removed Pin From Net: NetName=3.3V Pin=C6-1
+Removed Pin From Net: NetName=3.3V Pin=C7-1
+Removed Pin From Net: NetName=nRES Pin=D1-3
+Removed Pin From Net: NetName=GND Pin=D1-5
+Removed Pin From Net: NetName=3.3V Pin=D1-8
+Removed Pin From Net: NetName=SWO Pin=D1-28
+Removed Pin From Net: NetName=SWCLK Pin=D1-29
+Removed Pin From Net: NetName=SWDIO Pin=D1-39
+Removed Pin From Net: NetName=GND Pin=D1-41
+Removed Pin From Net: NetName=3.3V Pin=D1-44
+Removed Pin From Net: NetName=3.3V Pin=L2-2
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=nRES Pin=R5-1
+Removed Pin From Net: NetName=3.3V Pin=R5-2
+Removed Pin From Net: NetName=3.3V Pin=R6-2
+Removed Pin From Net: NetName=3.3V Pin=X1-10
+Removed Pin From Net: NetName=GND Pin=X2-2
+Removed Pin From Net: NetName=GND Pin=X3-3
+Removed Pin From Net: NetName=3.3V Pin=X4-7
+Removed Pin From Net: NetName=GND Pin=X4-8
+Removed Pin From Net: NetName=3.3V Pin=XP1-1
+Removed Member From Class: ClassName=WaveLCD_REV1.1 Member=REP1
+Removed Member From Class: ClassName=WaveLCD_REV1.1 Member=REP2
+Removed Member From Class: ClassName=WaveLCD_REV1.1 Member=REP3
+Removed Member From Class: ClassName=WaveLCD_REV1.1 Member=REP4
+Removed Member From Class: ClassName=WaveLCD_REV1.1 Member=REP5
+Removed Member From Class: ClassName=WaveLCD_REV1.1 Member=REP6
+Change Component Footprint: Designator=C3 Old Footprint=C 0603 New Footprint=C E-CASE
+Change Component Footprint: Designator=C1 Old Footprint=C D-CASE New Footprint=C 0603
+Change Component Footprint: Designator=C2 Old Footprint=C D-CASE New Footprint=C 0603
+Change Component Footprint: Designator=HL1 Old Footprint=HL 2012 New Footprint=HL 1608
+Change Component Footprint: Designator=L2 Old Footprint=L 0805 New Footprint=L SRN6045
+Change Component Footprint: Designator=X3 Old Footprint=MICRO-FIT-4 New Footprint=JST XH B2B-XH-A
+Change Component Footprint: Designator=X2 Old Footprint=PLD-14 New Footprint=JST XH B2B-XH-A
+Change Component Footprint: Designator=ZQ1 Old Footprint=ZQ KX-7T New Footprint=ZQ HC-49SMD
+Change Component Comment : Designator=C6 Old Comment=0.1u New Comment=0.047u
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=0
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=60.4
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=60.4
+Change Component Comment : Designator=ZQ1 Old Comment=12MHz New Comment=12 MHz
+Change Component Comment : Designator=C4 Old Comment=15p New Comment=0.1u
+Change Component Comment : Designator=C3 Old Comment=15p New Comment=47u 35V
+Change Component Comment : Designator=R2 Old Comment=60 New Comment=60.4
+Change Component Comment : Designator=R3 Old Comment=60 New Comment=60.4
+Change Component Comment : Designator=C1 Old Comment=220u 10V New Comment=0.1u
+Change Component Comment : Designator=C2 Old Comment=220u 10V New Comment=0.1u
+Change Component Comment : Designator=X3 Old Comment=43045-0400 New Comment=PLS-2
+Change Component Comment : Designator=L2 Old Comment=BLM21PG221SN1D New Comment=SRN6045-680M
+Change Component Comment : Designator=HL1 Old Comment=PartNumber New Comment=KPT1608
+Change Component Comment : Designator=X2 Old Comment=PLD-14 New Comment=PLS-2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=X1 NewDesignator=X4
+Change Component Designator: OldDesignator=XP1 NewDesignator=XP3
+Change Component Designator: OldDesignator=XP2 NewDesignator=XP4
+Change Component Designator: OldDesignator=XP3 NewDesignator=XP5
+Change component parameters: Designator = "C4"; Footprint = "C 0603"; UniqueID = "\PWXAAJFY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "C 0603"; UniqueID = "\CJLWLIHY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "C.806"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "C 0603"; UniqueID = "\JLBKLEUU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "C.806"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "C 0603"; UniqueID = "\PQMGJWWQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R 0603"; UniqueID = "\MVTPWGYK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "R.716"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "R 0603"; UniqueID = "\JBFYFLQY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "R.716"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R 0603"; UniqueID = "\PNKJINWA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "R.803"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R 0603"; UniqueID = "\CDAAVRDV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "R.716"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "R 0603"; UniqueID = "\KFOOPVYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "R.716"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2"; Footprint = "JST XH B2B-XH-A"; UniqueID = "\ZMUUJIWY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.platan.ru/pdf/ec278.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "2.54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2"; Footprint = "L SRN6045"; UniqueID = "\VANQWTER"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/data/global/pdfs/SRN6045.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "HL1"; Footprint = "HL 1608"; UniqueID = "\TPVMHJHV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://datasheet.seekic.com/PdfFile/KPT/KPT1608_KPT1608EC_KPT1608HC_KPT1608H.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "HL.1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C E-CASE"; UniqueID = "\WPDANZYG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/polyarnye/tantalovye/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "'E'"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "ZQ1"; Footprint = "ZQ HC-49SMD"; UniqueID = "\PGFENTIF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.platan.ru/pdf/datasheets/quartz/HC-49SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0532 MJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X3"; Footprint = "JST XH B2B-XH-A"; UniqueID = "\NGOZDMGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.platan.ru/pdf/ec278.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "2.54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "C 0603"; UniqueID = "\SDGBCFJN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C 0603"; UniqueID = "\XALBKGCZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C D-CASE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/polyarnye/tantalovye/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "'D'"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "C.801"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "C.608"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/kondensatory/keramicheskie/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "C.608"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SO-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/663306.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "D.30"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DPAK-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lm2576.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(LQFP100)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = "¿Ì‡ÎÓ„: LPC1768FBD100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nxp.com/documents/user_manual/UM10360.pdf?fasp=1&WT_TYPE=Users%20Guides&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=pdf&WT_ASSET=Documentation&fileExt=.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "D.9"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L4(L 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L5(L 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "R.803"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(R 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(R 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "R.803"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "R.803"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smd.ru/katalog/rezistory_i_potenciometry/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "R.713"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(VD SMB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/bb/db/21/0c/04/d9/41/a5/CD00000844.pdf/files/CD00000844.pdf/jcr:content/translations/en.CD00000844.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(MICRO-FIT-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Description"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mt-system.ru/sites/default/files/docs/documents/43045-0x00_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "X.64"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(Test Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP2(Test Pin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=3.3V Pin=D2-3
+Added Pin To Net: NetName=GND Pin=D3-3
+Added Pin To Net: NetName=GND Pin=D3-3
+Added Pin To Net: NetName=GND Pin=D3-5
+Added Pin To Net: NetName=SWO Pin=D4-1
+Added Pin To Net: NetName=SWDIO Pin=D4-3
+Added Pin To Net: NetName=SWCLK Pin=D4-5
+Added Pin To Net: NetName=nRES Pin=D4-17
+Added Pin To Net: NetName=GND Pin=D4-31
+Added Pin To Net: NetName=GND Pin=D4-41
+Added Pin To Net: NetName=GND Pin=D4-55
+Added Pin To Net: NetName=GND Pin=D4-72
+Added Pin To Net: NetName=GND Pin=D4-83
+Added Pin To Net: NetName=GND Pin=D4-97
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=GND Pin=L4-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=nRES Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=SWCLK Pin=R10-2
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Change Net Name : Old Net Name=3.3V New Net Name=CAN_VCC
+Change Net Name : Old Net Name=CAN_T New Net Name=CAN1_T
+Added Pin To Net: NetName=#RSTOUT Pin=D4-14
+Added Pin To Net: NetName=#RSTOUT Pin=R11-2
+Added Net: Name=#RSTOUT
+Added Pin To Net: NetName=3.3V Pin=C11-1
+Added Pin To Net: NetName=3.3V Pin=L1-1
+Added Pin To Net: NetName=3.3V Pin=L2-2
+Added Pin To Net: NetName=3.3V Pin=L3-1
+Added Pin To Net: NetName=3.3V Pin=L5-1
+Added Pin To Net: NetName=3.3V Pin=R8-2
+Added Pin To Net: NetName=3.3V Pin=R9-1
+Added Pin To Net: NetName=3.3V Pin=X4-10
+Added Pin To Net: NetName=3.3V Pin=XP3-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=CAN1_N Pin=D1-6
+Added Pin To Net: NetName=CAN1_N Pin=R4-2
+Added Pin To Net: NetName=CAN1_N Pin=X2-2
+Added Net: Name=CAN1_N
+Added Pin To Net: NetName=CAN1_P Pin=D1-7
+Added Pin To Net: NetName=CAN1_P Pin=R3-1
+Added Pin To Net: NetName=CAN1_P Pin=X2-1
+Added Net: Name=CAN1_P
+Added Pin To Net: NetName=CAN1_RX Pin=D1-4
+Added Pin To Net: NetName=CAN1_RX Pin=D4-57
+Added Net: Name=CAN1_RX
+Added Pin To Net: NetName=CAN1_TX Pin=D1-1
+Added Pin To Net: NetName=CAN1_TX Pin=D4-56
+Added Net: Name=CAN1_TX
+Added Pin To Net: NetName=CAN2_N Pin=D2-6
+Added Pin To Net: NetName=CAN2_N Pin=R6-2
+Added Pin To Net: NetName=CAN2_N Pin=X3-2
+Added Net: Name=CAN2_N
+Added Pin To Net: NetName=CAN2_P Pin=D2-7
+Added Pin To Net: NetName=CAN2_P Pin=R5-1
+Added Pin To Net: NetName=CAN2_P Pin=X3-1
+Added Net: Name=CAN2_P
+Added Pin To Net: NetName=CAN2_RX Pin=D2-4
+Added Pin To Net: NetName=CAN2_RX Pin=D4-81
+Added Net: Name=CAN2_RX
+Added Pin To Net: NetName=CAN2_T Pin=C6-1
+Added Pin To Net: NetName=CAN2_T Pin=R5-2
+Added Pin To Net: NetName=CAN2_T Pin=R6-1
+Added Net: Name=CAN2_T
+Added Pin To Net: NetName=CAN2_TX Pin=D2-1
+Added Pin To Net: NetName=CAN2_TX Pin=D4-80
+Added Net: Name=CAN2_TX
+Added Pin To Net: NetName=CRS1 Pin=D1-8
+Added Pin To Net: NetName=CRS1 Pin=R1-2
+Added Net: Name=CRS1
+Added Pin To Net: NetName=CRS2 Pin=D2-8
+Added Pin To Net: NetName=CRS2 Pin=R2-2
+Added Net: Name=CRS2
+Added Pin To Net: NetName=FB Pin=D3-4
+Added Pin To Net: NetName=FB Pin=R7-2
+Added Pin To Net: NetName=FB Pin=R8-1
+Added Net: Name=FB
+Added Pin To Net: NetName=G_ADC Pin=D4-11
+Added Pin To Net: NetName=G_ADC Pin=D4-15
+Added Pin To Net: NetName=G_ADC Pin=L4-2
+Added Net: Name=G_ADC
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=D4-22
+Added Pin To Net: NetName=NetC14_2 Pin=ZQ1-2
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=D4-23
+Added Pin To Net: NetName=NetC15_1 Pin=ZQ1-1
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_1 Pin=R11-1
+Added Net: Name=NetHL1_1
+Added Pin To Net: NetName=OUT Pin=D3-2
+Added Pin To Net: NetName=OUT Pin=L2-1
+Added Pin To Net: NetName=OUT Pin=VD1-2
+Added Net: Name=OUT
+Added Pin To Net: NetName=TDI Pin=D4-2
+Added Pin To Net: NetName=TDI Pin=X4-9
+Added Net: Name=TDI
+Added Pin To Net: NetName=UART3_RXD Pin=X4-4
+Added Net: Name=UART3_RXD
+Added Pin To Net: NetName=UART3_TXD Pin=X4-6
+Added Net: Name=UART3_TXD
+Added Pin To Net: NetName=UART_RX3 Pin=D4-47
+Added Net: Name=UART_RX3
+Added Pin To Net: NetName=UART_TX3 Pin=D4-46
+Added Net: Name=UART_TX3
+Added Pin To Net: NetName=V_ADC Pin=D4-10
+Added Pin To Net: NetName=V_ADC Pin=D4-12
+Added Pin To Net: NetName=V_ADC Pin=L3-2
+Added Net: Name=V_ADC
+Added Pin To Net: NetName=VIN Pin=C3-1
+Added Pin To Net: NetName=VIN Pin=D3-1
+Added Pin To Net: NetName=VIN Pin=X1-1
+Added Pin To Net: NetName=VIN Pin=X1-2
+Added Pin To Net: NetName=VIN Pin=XP2-1
+Added Net: Name=VIN
+Added Pin To Net: NetName=VMCU Pin=C4-1
+Added Pin To Net: NetName=VMCU Pin=C7-1
+Added Pin To Net: NetName=VMCU Pin=C8-1
+Added Pin To Net: NetName=VMCU Pin=C9-1
+Added Pin To Net: NetName=VMCU Pin=C10-1
+Added Pin To Net: NetName=VMCU Pin=C12-1
+Added Pin To Net: NetName=VMCU Pin=C13-1
+Added Pin To Net: NetName=VMCU Pin=D4-19
+Added Pin To Net: NetName=VMCU Pin=D4-28
+Added Pin To Net: NetName=VMCU Pin=D4-42
+Added Pin To Net: NetName=VMCU Pin=D4-54
+Added Pin To Net: NetName=VMCU Pin=D4-71
+Added Pin To Net: NetName=VMCU Pin=D4-84
+Added Pin To Net: NetName=VMCU Pin=D4-96
+Added Pin To Net: NetName=VMCU Pin=L5-2
+Added Pin To Net: NetName=VMCU Pin=XP1-1
+Added Net: Name=VMCU
+Change Class Name : Old Net Name=WaveLCD_REV1.1 New Net Name=CanGateLPC1768_rev1
+Added Differential Pair: Name=CAN1
+Added Differential Pair: Name=CAN2
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C2 0.1u
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C8 0.1u
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C9 0.1u
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C10 0.1u
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C11 220u 10V
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C12 0.1u
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C13 0.1u
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C14 12p
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component C15 12p
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component D3 LM2575S-ADJ
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component D4 LPC1769FBD100
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component L3 BLM21PG221SN1D
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component L4 BLM21PG221SN1D
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component L5 BLM21PG221SN1D
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component R7 5.9K
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component R8 10K
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component R9 10K
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component R10 10K
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component R11 220
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component VD1 STPS340U
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component XP4 GND
+Added Member To Class: ClassName=CanGateLPC1768_rev1 Member=Component XP5 GND
+Added Room: Name=CanGateLPC1768_rev1

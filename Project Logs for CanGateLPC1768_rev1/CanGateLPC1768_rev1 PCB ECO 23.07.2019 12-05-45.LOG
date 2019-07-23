@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=UART3_RXD Pin=D4-56
+Removed Pin From Net: NetName=UART3_TXD Pin=D4-57
+Added Pin To Net: NetName=UART3_RXD Pin=D4-6
+Added Pin To Net: NetName=UART3_TXD Pin=D4-7

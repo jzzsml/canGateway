@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VIN Pin=X1-1
+Removed Pin From Net: NetName=VIN Pin=X1-3
+Change Component Designator: OldDesignator=GND NewDesignator=XP4
+Change Component Designator: OldDesignator=VIN NewDesignator=XP2
+Change Component Designator: OldDesignator=VMCU NewDesignator=XP1
+Added Component: Designator=VD1(VD SOT1289)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Analog"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1965377.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R1"; Value = "SOT1289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remark"; Value = "VD.6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=VD1-2
+Added Pin To Net: NetName=NetVD1_1 Pin=VD1-1
+Added Pin To Net: NetName=NetVD1_1 Pin=VD1-1
+Added Pin To Net: NetName=NetVD1_1 Pin=X1-1
+Added Pin To Net: NetName=NetVD1_1 Pin=X1-3
+Added Net: Name=NetVD1_1

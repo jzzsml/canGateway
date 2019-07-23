@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\Work\Projects\Other\Can Gate\CanGateLPC1768_rev1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=8.66
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.66
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
